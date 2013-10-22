@@ -18,5 +18,3 @@
   - minute: '*/1'
   - require:
     - file: /root/scripts/logincheck.sh
-
-
