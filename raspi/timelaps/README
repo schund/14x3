@@ -1,0 +1,5 @@
+I started with a simple:
+
+for i in {1..10}; do
+    raspistill -o foto${i}.jpg
+done
